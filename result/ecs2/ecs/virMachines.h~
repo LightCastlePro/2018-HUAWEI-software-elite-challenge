@@ -1,0 +1,20 @@
+#pragma once
+#include "hashmapString.h"
+#include <unordered_map>
+#include <string>
+using namespace std; 
+
+
+class virMachines
+{
+
+public:
+	unordered_map<string, hash_map<int, int> > machinesType;
+
+public:
+	void initTypes(string filePath);
+
+	virMachines(void);
+	~virMachines(void);
+};
+

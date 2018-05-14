@@ -1,0 +1,1 @@
+/home/zkl/Documents/huaweiCodes/sdk-gcc/build/CMakeFiles/ecs.dir

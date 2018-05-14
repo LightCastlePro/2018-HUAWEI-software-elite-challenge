@@ -1,0 +1,1 @@
+/usr/bin/c++    -O3 -Wall -std=c++11    CMakeFiles/ecs.dir/virMachines.cpp.o CMakeFiles/ecs.dir/readFile.cpp.o CMakeFiles/ecs.dir/setVM_ratio.cpp.o CMakeFiles/ecs.dir/ecs.cpp.o CMakeFiles/ecs.dir/io.cpp.o CMakeFiles/ecs.dir/selfTime.cpp.o CMakeFiles/ecs.dir/predictVM.cpp.o CMakeFiles/ecs.dir/predict.cpp.o  -o /home/zkl/Documents/huaweiCodes/sdk-gcc/bin/ecs -rdynamic 
